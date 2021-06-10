@@ -1,28 +1,28 @@
 /* Import OpenDyslexic */
 
 @font-face {
-    font-family: 'OpenDyslexic';
+    font-family: 'cream-DEMO';
     src: url('https://raw.githubusercontent.com/LeXoLs/dyleqxia/main/cream-DEMO.otf');
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
-	font-family: 'OpenDyslexic';
+	font-family: 'cream-DEMO';
 	src: url('https://raw.githubusercontent.com/LeXoLs/dyleqxia/main/cream-DEMO.otf');
 	font-style: italic;
 	font-weight: normal;
 }
 
 @font-face {
-	font-family: 'OpenDyslexic';
+	font-family: 'cream-DEMO';
 	src: url('https://raw.githubusercontent.com/LeXoLs/dyleqxia/main/cream-DEMO.otf');
 	font-weight: bold;
-	font-style: normal;
+	font-style: normal;	
 } 
 
 @font-face {
-	font-family: 'OpenDyslexic';
+	font-family: 'cream-DEMO';
 	src: url('https://raw.githubusercontent.com/LeXoLs/dyleqxia/main/cream-DEMO.otf');
 	font-weight: bold;
 	font-style: italic;
